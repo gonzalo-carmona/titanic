@@ -1,0 +1,18 @@
+{
+    "training":
+    {
+        "C": 112.884
+    },
+    "evaluation":
+    {
+
+    },
+    "registration":
+    {
+        "tags": ["precision"]
+    },
+    "scoring":
+    {
+        
+    }
+}
