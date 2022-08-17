@@ -26,9 +26,9 @@ POSSIBILITY OF SUCH DAMAGE.
 import numpy
 import pandas
 import joblib
-# import os
+import os
 import pandas as pd
-# from azureml.core.model import Model
+from azureml.core.model import Model
 from inference_schema.schema_decorators \
     import input_schema, output_schema
 from inference_schema.parameter_types.numpy_parameter_type \
